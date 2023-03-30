@@ -1,6 +1,8 @@
 ## Today 30 March
 Just changed the if condition
 
+- [ ] The challenge was to get the flag from the *level1.py* and *level1.flag.txt.enc* . By mechanism *level1.py* decrypted the *level1.flag.txt.enc* to display flag.
+
 ### PREVIOUS
 
 ```python
@@ -27,4 +29,4 @@ def level_1_pw_check():
     print("That password is incorrect")
 ```
 
-##### Hence easily got the flag: picoCTF{545h_r1ng1ng_fa343060}
+- [x]  Hence easily got the flag: picoCTF{545h_r1ng1ng_fa343060}
